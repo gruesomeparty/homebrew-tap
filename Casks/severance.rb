@@ -1,6 +1,6 @@
 cask "severance" do
-  version "1.1.0"
-  sha256 "425a9cc2dec281117d837694d4301dd68f54f6522960a849055f565fea0fdfaf"
+  version "1.1.1"
+  sha256 "ccf9278b33424239998b3d36d66de3f7600044a0b58d6b682a0f7b0f0a0371d6"
 
   url "https://github.com/gruesomeparty/severance/releases/download/menubar-v#{version}/Severance-macos.zip"
   name "Severance"
