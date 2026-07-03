@@ -7,7 +7,7 @@ cask "severance" do
   desc "Menu bar dashboard and resume scheduler for the Severance budget gate"
   homepage "https://github.com/gruesomeparty/severance"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "Severance.app"
 
